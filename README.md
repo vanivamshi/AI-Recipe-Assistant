@@ -88,6 +88,3 @@ Open `langchain_cook_book.ipynb` in Google Colab and run all cells. This will:
 ```bash
 streamlit run cook_book.py
 ```
----
-```
-- ngrok free account: [dashboard.ngrok.com](https://dashboard.ngrok.com)
